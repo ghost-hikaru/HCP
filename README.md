@@ -1,6 +1,6 @@
-# <p align="center">HCP</p>
+# <p align="center"> High performance computing</p>
 
-Vous retrouverez sur ce dépôt l'ensemble des TPs réalisés lors du module High Computer Network. Ces TPs sont des TPs de l'ESIR réalisé en 3ème année. Chaque dossier contient un TP différent et toutes les informations nécessaires pour le compiler et le faire fonctionner.
+Vous retrouverez sur ce dépôt l'ensemble des TPs réalisés lors du module  High performance computing. Ces TPs sont des TPs de l'ESIR réalisé en 3ème année. Chaque dossier contient un TP différent et toutes les informations nécessaires pour le compiler et le faire fonctionner.
 
 ## 📱 Liste des TPs
 | TP | Contenu | 
